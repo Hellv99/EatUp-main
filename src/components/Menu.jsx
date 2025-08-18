@@ -7,7 +7,7 @@ const DISHES = [
     name: "Smoky Party Jollof",
     desc: "Firewood-style jollof rice, grilled chicken, fried plantain.",
     price: "₦3,500",
-    img: "https://images.unsplash.com/photo-1617191518005-5d1b4a1af9da?q=80&w=1200&auto=format&fit=crop",
+    img: "https://plus.unsplash.com/premium_photo-1694141252774-c937d97641da?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const DISHES = [
     name: "Beef Suya",
     desc: "Tender beef with suya spice, onions & tomatoes.",
     price: "₦2,800",
-    img: "https://images.unsplash.com/photo-1617191518400-48a3c6ebadc9?q=80&w=1200&auto=format&fit=crop",
+    img: "https://i.pinimg.com/736x/f6/ee/0a/f6ee0a7eedaea903507aed732d97315c.jpg?q=80&w=1200&auto=format&fit=crop",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const DISHES = [
     name: "Egusi & Pounded Yam",
     desc: "Rich melon seed soup, assorted meats, fresh greens.",
     price: "₦4,200",
-    img: "https://images.unsplash.com/photo-1604908554027-2311f2e2d3d4?q=80&w=1200&auto=format&fit=crop",
+    img: "https://i.pinimg.com/736x/46/1d/23/461d235c705d2a151c532124c978a5c5.jpg?q=80&w=1200&auto=format&fit=crop",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const DISHES = [
     name: "Puff-Puff",
     desc: "Golden, fluffy, lightly sugared dough balls.",
     price: "₦1,500",
-    img: "https://images.unsplash.com/photo-1598373182133-52452f7691ef?q=80&w=1200&auto=format&fit=crop",
+    img: "https://i.pinimg.com/1200x/d5/5e/08/d55e085449231383a4c79cbdf85f0ec4.jpg?q=80&w=1200&auto=format&fit=crop",
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ const DISHES = [
     name: "Ofada & Ayamase",
     desc: "Native Ofada rice with spicy green pepper sauce.",
     price: "₦3,800",
-    img: "https://images.unsplash.com/photo-1616851111419-53b2b0c0b2ac?q=80&w=1200&auto=format&fit=crop",
+    img: "https://i.pinimg.com/736x/2b/a0/62/2ba062ce4ecc7dd7d7db9f4b4ce1a7ba.jpg?q=80&w=1200&auto=format&fit=crop",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ const DISHES = [
     name: "Afang Soup",
     desc: "Afang leaves, waterleaf, smoked fish & beef, swallow of choice.",
     price: "₦4,000",
-    img: "https://images.unsplash.com/photo-1588167056540-e1d7c6b2d7ce?q=80&w=1200&auto=format&fit=crop",
+    img: "https://i.pinimg.com/736x/4b/a2/74/4ba274c5fde9f1d84382b5a2eb30ed1c.jpg?q=80&w=1200&auto=format&fit=crop",
   },
 ];
 
@@ -99,7 +99,7 @@ export default function Menu() {
                 <img
                   src={item.img}
                   alt={item.name}
-                  className="w-full h-52 object-cover"
+                  className="w-full h-100 object-cover"
                 />
                 <div className="p-5">
                   <div className="flex items-start justify-between gap-3">
