@@ -17,7 +17,7 @@ export default function Hero() {
             Taste the Warmth of <span className="text-[#ca7842]">Nigeria</span>
           </h1>
           <p className="mt-4 text-lg md:text-xl text-[#f0f2bd]/90">
-            At <span className="font-semibold">EatUp</span>, we serve soulful
+            At <span className="font-semibold">AfroDelightBites</span>, we serve soulful
             Nigerian classics— smoky jollof, spicy suya, rich soups—made fresh
             with locally sourced ingredients.
           </p>

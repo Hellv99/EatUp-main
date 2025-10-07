@@ -28,7 +28,7 @@ export default function Contact() {
               </div>
               <div className="flex items-start gap-3">
                 <FaEnvelope className="mt-1 text-[#ca7842]" />
-                <p className="text-[#4b352a]/90">hello@eatup.ng</p>
+                <p className="text-[#4b352a]/90">hello@AfroDelightBites.ng</p>
               </div>
             </div>
 

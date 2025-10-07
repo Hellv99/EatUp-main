@@ -34,7 +34,7 @@ export default function Navbar() {
             className="flex items-center gap-2 font-bold text-xl"
           >
             <FaUtensils />
-            EatUp
+            AfroDelightBites
           </button>
 
           {/* Desktop links */}

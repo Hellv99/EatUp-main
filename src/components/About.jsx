@@ -10,7 +10,7 @@ export default function About() {
         <div className="rounded-2xl overflow-hidden shadow-soft">
           <img
             src="/images/about-image.jpg"
-            alt="EatUp kitchen"
+            alt="AfroDelightBites kitchen"
             className="w-full h-full object-cover"
           />
         </div>
@@ -20,7 +20,7 @@ export default function About() {
             Our Story
           </h2>
           <p className="mt-4 text-[#4b352a]/80">
-            From pop-up to neighborhood favorite, EatUp celebrates home-style
+            From pop-up to neighborhood favorite, AfroDelightBites celebrates home-style
             Nigerian cooking with a modern touch. Our chefs respect tradition
             while crafting flavors that feel like Sunday at home.
           </p>
